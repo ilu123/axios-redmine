@@ -1,7 +1,7 @@
 {
-  "name": "axios-redmine",
+  "name": "axios-redmine2",
   "version": "0.1.12",
-  "description": "axios-redmine is a nodejs library which supports 100% features of Redmine's REST API.",
+  "description": "axios-redmine2 is a nodejs library which supports 100% features of Redmine's REST API. Support nodejs8+",
   "main": "lib/redmine.js",
   "directories": {
     "doc": "doc",
@@ -17,8 +17,8 @@
     "axios",
     "REST API"
   ],
-  "repository": "https://github.com/lupinthe14th/axios-redmine.git",
-  "author": "hideosuzuki@ordinarius-fectum.net",
+  "repository": "https://github.com/ilu123/axios-redmine.git",
+  "author": "stevejobs.js@gmail.com",
   "license": "GPL-3.0",
   "dependencies": {
     "axios": "^0.19.0"
