@@ -1,6 +1,6 @@
 {
   "name": "axios-redmine2",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "axios-redmine2 is a nodejs library which supports 100% features of Redmine's REST API. Support nodejs8+",
   "main": "lib/redmine.js",
   "directories": {
