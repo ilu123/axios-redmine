@@ -9,3 +9,4 @@ coverage
 .github
 .mergify.yml
 .travis.yml
+*.tgz
